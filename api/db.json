@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "Book one",
+      "body": "This is Book one.",
+      "id": 1
+    }
+  ]
+}
